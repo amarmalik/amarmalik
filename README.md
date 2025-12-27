@@ -1,5 +1,10 @@
-# 💫 About Me:
-Architecting AI driven Mobile and Web App solutions.<br>Over 8 years in tech, adept at crafting mobile and web applications, real-time<br>querying solutions and enhancing infrastructure efficiency, achieving significant performance<br>gains and scalable solutions.<br>Reach me at : amarmalik715@gmail.com<br>Linkedin: https://www.linkedin.com/in/amar-malik-ba417790/
+# 💫 I'm Amar Malik:
+---------------------
+# Architecting AI driven Mobile and Web App solutions.
+
+# Graduated from IET Lucknow [B.Tech(Information Technology)]
+
+<br>Over 8 years in tech, adept at crafting mobile and web applications, real-time<br>querying solutions and enhancing infrastructure efficiency, achieving significant performance<br>gains and scalable solutions.<br>Reach me at : amarmalik715@gmail.com<br>Linkedin: https://www.linkedin.com/in/amar-malik-ba417790/
 
 
 ## 🌐 Socials:
