@@ -2,9 +2,9 @@
 ---------------------
 # Architecting AI driven Mobile and Web App solutions.
 
-# Graduated from IET Lucknow [B.Tech(Information Technology)]
-
-<br>Over 8 years in tech, adept at crafting mobile and web applications, real-time<br>querying solutions and enhancing infrastructure efficiency, achieving significant performance<br>gains and scalable solutions.<br>Reach me at : amarmalik715@gmail.com<br>Linkedin: https://www.linkedin.com/in/amar-malik-ba417790/
+<br>Over 8 years in tech, adept at crafting mobile and web applications, real-time querying solutions and enhancing infrastructure efficiency, achieving significant performance gains and scalable solutions.
+<br> Successfully led cross-functional teams and contributed to high-impact projects with measurable outcomes, including a 95% on-time delivery rate. Passionate about leveraging expertise to drive innovation and exceed objectives at future employers.
+<br>Reach me at : amarmalik715@gmail.com<br>Linkedin: https://www.linkedin.com/in/amar-malik-ba417790/
 
 
 ## 🌐 Socials:
